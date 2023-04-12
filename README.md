@@ -3,10 +3,11 @@ mildly interesting
 
 
 
-
 BST-BCS-11a	: Algorithms and Data Structures
 
 Exams repared by	: Prof. Dr. Hasan DAĞ
+
+
 ------------------------------------------------------
 
 
