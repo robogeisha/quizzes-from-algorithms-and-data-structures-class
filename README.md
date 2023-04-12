@@ -9,6 +9,8 @@ Exam Type		: Quiz 2
 
 Question. Write a C program that generates 6 random numbers between 1 and 54 inclusive, stores them into an array, prints the unsorted numbers, sorts the array elements in ascending order, and prints the sorted numbers again. No duplicate numbers are allowed. The main program is to be as concise as possible. For example,
 
+
+
 #include <stdio.h>
 #include <stdlib.h>
 #include “nameLastnameLibary.h”  // This is the file that holds all the 
@@ -34,9 +36,7 @@ int main(int argc, char *argv[]){
 	// print the sorted array
 	………… // one function call only
 
-	return 0; // successful ending of the program
-
-
+return 0; // successful ending of the program
 }// end of main function
 
 
@@ -44,11 +44,7 @@ int main(int argc, char *argv[]){
 
 Exam Type		: Quiz 3 		 
 
-Question (Basic part: 100 points). Assume that you are given a file named Quiz3_Data.txt and it contains data in format below for 5 students. 
-
-Name,		Lname,	Age,	Height,	Gr1,	Gr2,	Gr3,	Gr4,	Gr5,	Address.
-John,		Doe,	 	25,	1.72,	 	A,	B, 	C, 	D,	A,	Berlin, Reiner Str 54.
-Jane,		Beauty,		23,	1.73,		B, 	C, 	C, 	D, 	B,	Berlin, Alex Str. 115.	
+Question (Basic part: 100 points). Assume that you are given a file named Quiz3_Data.txt.
 
 Define a data structure to hold this data for 5 students, read data from the file and populate your data structure. Having read the data, now sort the data with respect to (w.r.t.) students’ heights and print both unsorted and the sorted data. 
 
