@@ -2,12 +2,11 @@
 mildly interesting
 
 
-=============================================================
+
 BST-BCS-11a	: Algorithms and Data Structures
 Prepared by	: Prof. Dr. Hasan DAĞ
-Date			: 14.06.2022
 Exam Type		: Quiz 2 		 
-=============================================================
+
 Question. Write a C program that generates 6 random numbers between 1 and 54 inclusive, stores them into an array, prints the unsorted numbers, sorts the array elements in ascending order, and prints the sorted numbers again. No duplicate numbers are allowed. The main program is to be as concise as possible. For example,
 
 #include <stdio.h>
